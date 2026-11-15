@@ -1,0 +1,18 @@
+01. DESCRIPTION OF RULES (EKEGUSII NOUN PLURALIZATION)
+======================================================
+
+[C1] Class 1 (Human / Person Nouns):
+     Replace singular prefix 'omo-' with plural prefix 'aba-'
+     Example: omonto -> abanto
+
+[C2] Class 2 (Objects / Tools / General Things):
+     Replace singular prefix 'eke-' with plural prefix 'ebi-'
+     Example: ekegori -> ebigori
+
+[C3] Class 3 (Paired Items / Fruits / Body Parts):
+     Replace singular prefix 'eri-' with plural prefix 'ama-'
+     Example: erigena -> amagena
+
+[C4] Class 4 (Animals / Everyday Nouns):
+     Replace singular prefix 'en-' with plural prefix 'chin-'
+     Example: eng'ombe -> ching'ombe

@@ -1,0 +1,17 @@
+omonto | [C1] | Expected: abanto | Got: abanto | PASS
+omokungu | [C1] | Expected: abakungu | Got: abakungu | PASS
+omosacha | [C1] | Expected: abasacha | Got: abasacha | PASS
+omorisia | [C1] | Expected: abarisia | Got: abarisia | PASS
+omwana | [C1] | Expected: abana | Got: omwana | FAIL
+ekegori | [C2] | Expected: ebigori | Got: ebigori | PASS
+ekerago | [C2] | Expected: ebirago | Got: ebirago | PASS
+ekebago | [C2] | Expected: ebibago | Got: ebibago | PASS
+egesusu | [C2] | Expected: ebisusu | Got: egesusu | FAIL
+eriino | [C3] | Expected: amaino | Got: amaino | PASS
+erigena | [C3] | Expected: amagena | Got: amagena | PASS
+eritunda | [C3] | Expected: amatunda | Got: amatunda | PASS
+eng'ombe | [C4] | Expected: ching'ombe | Got: ching'ombe | PASS
+enchogu | [C4] | Expected: chinchogu | Got: chinchogu | PASS
+embori | [C4] | Expected: chimbori | Got: embori | FAIL
+
+SUMMARY: 12 PASS / 3 FAIL

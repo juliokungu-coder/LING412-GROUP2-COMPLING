@@ -1,0 +1,8 @@
+SELF-CHECK SUMMARY (EKEGUSII FST)
+=================================
+- Total Rules Defined: 4 ([C1] to [C4])
+- Total Test Words Run: 15
+- Passed: 12
+- Failed: 3
+- Morphophonemic Edge Cases Caught: 3 (Glide formation, Dahl's Law, Nasal assimilation)
+- Status: All required files generated and verified.

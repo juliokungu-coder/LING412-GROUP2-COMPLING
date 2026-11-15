@@ -1,0 +1,8 @@
+FAIL: omwana [C1] -> expected 'abana', got 'omwana'
+FAIL: egesusu [C2] -> expected 'ebisusu', got 'egesusu'
+FAIL: embori [C4] -> expected 'chimbori', got 'embori'
+
+EXPLANATION OF ERRORS:
+1. omwana [C1] -> omwana: Glide formation changes the prefix 'omo-' to 'omw-' before a vowel root (-ana).
+2. egesusu [C2] -> egesusu: Dahl's Law voices the prefix 'eke-' to 'ege-' before a voiceless consonant (s).
+3. embori [C4] -> embori: Homorganic nasal assimilation changes 'en-' to 'em-' before a bilabial consonant (b).
